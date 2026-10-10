@@ -1,0 +1,5 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Summarise topics, decisions, and next steps for handoff"
+policy:
+  allow_implicit_invocation: false
