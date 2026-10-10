@@ -1,6 +1,7 @@
 ---
 name: rpi
-description: Only use when the user explicitly invokes this skill by name.
+description: Help the user research a change, work through its design, and implement it.
+disable-model-invocation: true
 ---
 
 # Research, Design, and Implement
