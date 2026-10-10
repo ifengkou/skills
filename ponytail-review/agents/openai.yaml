@@ -1,0 +1,5 @@
+interface:
+  display_name: "ponytail-review"
+  short_description: "Quality review of a change"
+policy:
+  allow_implicit_invocation: false

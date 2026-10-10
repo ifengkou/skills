@@ -1,0 +1,5 @@
+interface:
+  display_name: "ponytail-audit"
+  short_description: "Quality audit of a whole repo"
+policy:
+  allow_implicit_invocation: false
