@@ -2,6 +2,8 @@
 
 Turn the available product context into a technical design. Discuss **System Design** first, then **Program Design**, with a separate user approval for each.
 
+Use plain, familiar language to describe product behavior and technical design. Do not use obscure or unnecessarily difficult terminology. When a professional term is needed, explain it briefly in plain language at first use, both in the conversation and in the TDD.
+
 Follow these steps in order, running the interview in the main conversation.
 
 ## 1. Read the Available Context

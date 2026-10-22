@@ -6,7 +6,8 @@
 - <Checks run and their results.>
 
 **Review:**
-- <Manual checks or unresolved issues, when present.>
+- <For each manual check: prerequisites, numbered actions, expected result, and links to the reference documents and sections with what to compare against. State any missing references.>
+- <Unresolved issues, when present.>
 
 <With an outline: Progress is recorded in `<outline-path>`.>
 

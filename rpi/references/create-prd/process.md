@@ -2,6 +2,8 @@
 
 Work with the user to define what they want to build and why: the problem, success measure, user experience, functionality, and behavior. Keep implementation questions for the TDD.
 
+Use plain, familiar language in product descriptions and discussions. Do not use obscure or unnecessarily difficult terminology. When a professional term is needed, explain it briefly in plain language at first use, both in the conversation and in the PRD.
+
 Follow these steps in order, running the interview in the main conversation.
 
 ## 1. Read the Available Context

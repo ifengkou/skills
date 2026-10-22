@@ -58,6 +58,8 @@ Use the Edit tool to make these updates. This creates a persistent record of pro
 
 Without an outline, run the relevant automated checks from the repository and report their commands, results, and any checks that could not run.
 
+For every manual verification item, provide prerequisites, numbered actions, and the expected result. Name and link the reference documents and specific sections the reviewer should consult, and explain what to check against each (for example, the outline's validation section, PRD acceptance criteria, TDD behavior, or setup guide). Include these details in phase pauses and the final report, even without an outline or when several phases run consecutively. If a needed reference is missing, state that and supply the available setup and verification details; do not invent document links.
+
 After implementing a phase:
 1. Run all automated verification commands listed in the Validation section
 2. Fix any issues before marking checkboxes complete
@@ -70,8 +72,14 @@ After implementing a phase:
    Automated verification passed:
    - [List automated checks that passed]
 
-   Please perform the manual verification steps listed in the outline:
-   - [List manual verification items]
+   Please perform these manual checks:
+   - [Check name]
+     Prerequisites: [Environment, setup, and test data needed]
+     Reference: [Document link and section, with what to compare against]
+     Steps:
+     1. [Concrete action]
+     2. [Concrete action]
+     Expected result: [Observable behavior that confirms the check passed]
 
    Let me know when manual testing is complete so I can mark the phase complete.
    ```

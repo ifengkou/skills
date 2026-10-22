@@ -2,6 +2,8 @@
 
 Revise an existing PRD from feedback or resume the product interview. Work through one resolved choice at a time in the main conversation.
 
+Use plain, familiar language in product descriptions and discussions. Do not use obscure or unnecessarily difficult terminology. When a professional term is needed, explain it briefly in plain language at first use, both in the conversation and in the PRD. Apply this rule when revising existing wording as well.
+
 Follow these steps in order.
 
 ## 1. Read the PRD and Context

@@ -30,6 +30,8 @@ If code and design differ in a way that changes the agreed result, present the m
 
 Summarize what changed, checks run, and any manual verification needed. For a phase pause, state the next phase and wait for the user's test results or request to continue.
 
+For every manual verification item, provide prerequisites, numbered actions, and the expected result so the user can perform the check directly. Name and link the documents and specific sections to consult, such as the outline's validation section, PRD acceptance criteria, TDD behavior, or setup guide, and explain what to check against each. Include these instructions at phase pauses and in the final handoff, including when implementing without an outline. If a needed reference is missing, say so and provide the available setup and verification details rather than inventing a document link.
+
 When a workflow document was updated, offer to open it for review in VS Code, Cursor, or the user's preferred editor or browser.
 
 Make commits when requested, following repository rules. Keep artifact progress in its existing document.

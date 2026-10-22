@@ -2,6 +2,8 @@
 
 Revise an existing TDD from feedback or resume its system and program design interviews. Keep the two concerns distinct and resolve one choice at a time in the main conversation.
 
+Use plain, familiar language to describe product behavior and technical design. Do not use obscure or unnecessarily difficult terminology. When a professional term is needed, explain it briefly in plain language at first use, both in the conversation and in the TDD. Apply this rule when revising existing wording as well.
+
 Follow these steps in order.
 
 ## 1. Read the TDD and Context
